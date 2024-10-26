@@ -1,0 +1,8 @@
+public class main{
+    public static void main(string[] args){
+        Cube cube = new Cube(sides:3);
+        Person ishana = new Person(name,age,gender);
+        Person kevin = new Person("kevin",26,"m");
+        ishana.getAge;
+    }
+}

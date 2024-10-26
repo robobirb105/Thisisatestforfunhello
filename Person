@@ -1,0 +1,28 @@
+// Class
+public class Person{
+    // variable
+    private int name;
+    private int age;
+    private int gender;
+
+    // constructors
+    public cube(str.name, int.age, str.gender){
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+    }
+
+    // Methods
+    public void getName(){
+        System.out.println(name);
+    }
+
+    public void getAge(){
+        System.out.println(age);
+    }
+
+    public void getGender(){
+        System.out.println(gender);
+    }
+
+}
